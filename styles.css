@@ -147,4 +147,8 @@ footer a {
         background-image: url("images/pattern-background-mobile.svg");
         background-color: var(--very-Pale-blue);
     }
+
+    .container {
+        margin: auto;
+    }
 }
